@@ -1,0 +1,6 @@
+.DS_Store
+secrets.txt
+
+#Prof files
+#*.txt -->means all txt files to be ignored
+
